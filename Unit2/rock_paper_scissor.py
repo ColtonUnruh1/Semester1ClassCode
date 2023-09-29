@@ -10,8 +10,10 @@ import random
 print("Welcome to rock, paper, scissor!")
 
 # Get user choice
-print("Please select rock, paper, or scissor: ")
-user_choice = input(">")
+user_choice = ""
+while user_choice != "rock" and user_choice != "scissor" and user_choice != "paper":
+    print("Please select rock, paper, or scissor: ")
+    user_choice = input(">").lower()
 
 # Get computer choice
 random_int = random.randint(1,3)
