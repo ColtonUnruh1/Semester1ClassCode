@@ -6,6 +6,7 @@ Description: An implementation of rock, paper, scissors in
 Python where a user can play against the computer until 
 they type 'quit'.
 
+To-do: Random comp choices, play until quit
 """
 
 # Welcome the user
