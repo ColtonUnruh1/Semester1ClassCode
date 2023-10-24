@@ -1,7 +1,9 @@
 """
 Header goes here
 """
-def mult_table(m,n):
+
+#Exercise 1
+def custom_multiplication_table(m,n):
     """
     Description goes here
 
