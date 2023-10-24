@@ -20,9 +20,6 @@ def custom_multiplication_table(m,n):
 #Excercise 2
     
 
-#Exercise 3
-
-
 
 ####Test code here####
 
